@@ -1,0 +1,21 @@
+[
+  {
+    "image_type": "svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg",
+    "title": "Your infinite wardrobe",
+    "info": "Discover what works best for you"
+  },
+  {
+    "image_type": "svg",
+    "image": "https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/AJ_Digital_Camera.svg",
+    "title": "Amazing discount & offers",
+    "info": "Cheaper prices than your local supermarket great discounts and cashback offers to top"
+  },
+  {
+    "image_type": "png",
+    "image": "https://png.pngtree.com/element_our/md/20180626/md_5b321ca31d522.png",
+    "title": "Easy & Safe payment",
+    "info": "Pay for the products you buy safely & easily"
+  }
+]
+
