@@ -1,0 +1,78 @@
+{
+    "status": "200",
+    "message": "Sections list get successfully",
+    "data": [
+        {
+            "id": 1,
+            "title": "advertise",
+            "description": "this is the advertise section",
+            "keywords": "Advertise",
+            "keyword_option": null,
+            "end_point": "advertise",
+            "order": 4,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active",
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "title": "banner",
+            "description": "this is banner section",
+            "keywords": "SliderBanner",
+            "keyword_option": null,
+            "end_point": "banner",
+            "order": 2,
+            "dlink": "www.google.com",
+            "status": "active",
+            "deleted_at": null
+        },
+        {
+            "id": 3,
+            "title": "categories",
+            "description": "this is the categories section",
+            "keywords": "Categories",
+            "keyword_option": "",
+            "end_point": "categories",
+            "order": 3,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active",
+            "deleted_at": null
+        },
+        {
+            "id": 4,
+            "title": "trending product",
+            "description": "this is the product section",
+            "keywords": "Product",
+            "keyword_option": "trending_product",
+            "end_point": "product",
+            "order": 4,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active",
+            "deleted_at": null
+        },
+        {
+            "id": 5,
+            "title": "brand",
+            "description": "this is the brand section",
+            "keywords": "Brand",
+            "keyword_option": null,
+            "end_point": "brand",
+            "order": 4,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active",
+            "deleted_at": null
+        },
+        {
+            "id": 6,
+            "title": "offer",
+            "description": "this is the offer section",
+            "keywords": "Offer",
+            "keyword_option": null,
+            "end_point": "offer",
+            "order": 0,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active",
+            "deleted_at": null
+        }
+    ]
+}
